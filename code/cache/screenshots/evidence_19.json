@@ -1,0 +1,11 @@
+{
+  "file_id": "evidence_19",
+  "model": "gemma-4-26b-a4b-it",
+  "sha256": "4e4cb259bc2010b622b0c53fe5872258f994fefc23452a83bb27473758693484",
+  "usage": {
+    "promptTokenCount": 471,
+    "candidatesTokenCount": 105,
+    "thoughtsTokenCount": 1261
+  },
+  "answer": "```json\n{\n  \"records\": [\n    {\n      \"resource_id\": \"analytics_7438\",\n      \"system_id\": \"analytics_platform\",\n      \"emails\": [\n        \"darwish.omar@icloud.com\"\n      ],\n      \"user_ids\": [\n        \"user_20\"\n      ],\n      \"phones\": [],\n      \"state\": \"present\"\n    }\n  ]\n}\n```"
+}

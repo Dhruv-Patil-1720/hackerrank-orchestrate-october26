@@ -1,0 +1,11 @@
+{
+  "file_id": "evidence_14",
+  "model": "gemma-4-26b-a4b-it",
+  "sha256": "e81fabc93ea1b5f4c918d934cdb2bea05d61737adfcc29f281494f5d8ec46355",
+  "usage": {
+    "promptTokenCount": 471,
+    "candidatesTokenCount": 289,
+    "thoughtsTokenCount": 3364
+  },
+  "answer": "```json\n{\n  \"records\": [\n    {\n      \"resource_id\": \"data_flow_1121\",\n      \"system_id\": \"integration_service\",\n      \"emails\": [\n        \"jain.aditi@gmail.com\"\n      ],\n      \"user_ids\": [],\n      \"phones\": [],\n      \"state\": \"active\"\n    },\n    {\n      \"resource_id\": \"data_flow_9846\",\n      \"system_id\": \"integration_service\",\n      \"emails\": [\n        \"lucia-torres@gmail.com\"\n      ],\n      \"user_ids\": [],\n      \"phones\": [],\n      \"state\": \"active\"\n    },\n    {\n      \"resource_id\": \"Order notifications\",\n      \"system_id\": \"integration_service\",\n      \"emails\": [],\n      \"user_ids\": [],\n      \"phones\": [],\n      \"state\": \"active\"\n    },\n    {\n      \"resource_id\": \"Delivery tracking\",\n      \"system_id\": \"integration_service\",\n      \"emails\": [],\n      \"user_ids\": [],\n      \"phones\": [],\n      \"state\": \"active\"\n    }\n  ]\n}\n```"
+}

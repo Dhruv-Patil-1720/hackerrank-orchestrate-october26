@@ -1,0 +1,11 @@
+{
+  "file_id": "evidence_42",
+  "model": "gemma-4-26b-a4b-it",
+  "sha256": "68c28a72afd6ed184d5990d15c543f8a516face204f0360f732755a8a63c28be",
+  "usage": {
+    "promptTokenCount": 471,
+    "candidatesTokenCount": 82,
+    "thoughtsTokenCount": 2899
+  },
+  "answer": "```json\n{\n  \"records\": [\n    {\n      \"resource_id\": \"\",\n      \"system_id\": \"account_service\",\n      \"emails\": [],\n      \"user_ids\": [\n        \"user_17\"\n      ],\n      \"phones\": [],\n      \"state\": \"active\"\n    }\n  ]\n}\n```"
+}

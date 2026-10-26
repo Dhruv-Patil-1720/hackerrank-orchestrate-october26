@@ -12,6 +12,19 @@ Read [`problem_statement.md`](./problem_statement.md) for the complete challenge
 
 ---
 
+## Run the audit
+
+From the repository root:
+
+```bash
+pip install -r code/requirements.txt
+python3 code/main.py
+```
+
+`code/main.py` reads `dataset/deletion_requests.csv` and writes `output.csv` at the repository root. It does not read an API key. Decisions are Python rules. PDF text is extracted with `pypdf`. Screenshot reads, when present, come from `code/cache/screenshots/` so this run does not call the model.
+
+To refresh those reads, copy `code/.env.example` to `.env` in the repository root and set `GEMINI_API_KEY`. Then run `python3 code/screenshots.py`. The model id is `gemma-4-26b-a4b-it`.
+
 ## Quick Start
 
 Clone the repository and move into the project directory:

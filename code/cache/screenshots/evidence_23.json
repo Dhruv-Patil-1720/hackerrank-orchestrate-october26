@@ -1,0 +1,11 @@
+{
+  "file_id": "evidence_23",
+  "model": "gemma-4-26b-a4b-it",
+  "sha256": "18b95c1bd8b8956e40216df935498a9f3c181ea2a69b5cd6d3c0841a816d5557",
+  "usage": {
+    "promptTokenCount": 471,
+    "candidatesTokenCount": 324,
+    "thoughtsTokenCount": 1620
+  },
+  "answer": "```json\n{\n  \"records\": [\n    {\n      \"resource_id\": \"export_1261\",\n      \"system_id\": \"export_service\",\n      \"emails\": [\n        \"marcus.lee@northstar.shop\"\n      ],\n      \"user_ids\": [],\n      \"phones\": [],\n      \"state\": \"active\"\n    },\n    {\n      \"resource_id\": \"export_1260\",\n      \"system_id\": \"export_service\",\n      \"emails\": [\n        \"ingrid.dahl@outlook.com\"\n      ],\n      \"user_ids\": [],\n      \"phones\": [],\n      \"state\": \"active\"\n    },\n    {\n      \"resource_id\": \"export_1259\",\n      \"system_id\": \"export_service\",\n      \"emails\": [\n        \"sara.kim@northstar.shop\"\n      ],\n      \"user_ids\": [],\n      \"phones\": [],\n      \"state\": \"active\"\n    },\n    {\n      \"resource_id\": \"export_1258\",\n      \"system_id\": \"export_service\",\n      \"emails\": [\n        \"daniel.park@northstar.shop\"\n      ],\n      \"user_ids\": [],\n      \"phones\": [],\n      \"state\": \"active\"\n    }\n  ]\n}\n```"
+}

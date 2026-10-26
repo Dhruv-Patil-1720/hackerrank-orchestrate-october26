@@ -1,0 +1,11 @@
+{
+  "file_id": "evidence_37",
+  "model": "gemma-4-26b-a4b-it",
+  "sha256": "ca59f693f4e7002466b3fdeaf1bb6763618770963dd811b60003772d07b4b03b",
+  "usage": {
+    "promptTokenCount": 471,
+    "candidatesTokenCount": 443,
+    "thoughtsTokenCount": 2880
+  },
+  "answer": "```json\n{\n  \"records\": [\n    {\n      \"resource_id\": \"audit_record_003\",\n      \"system_id\": \"security_service\",\n      \"emails\": [],\n      \"user_ids\": [\n        \"user_03\"\n      ],\n      \"phones\": [],\n      \"state\": \"\"\n    },\n    {\n      \"resource_id\": \"audit_record_002\",\n      \"system_id\": \"security_service\",\n      \"emails\": [],\n      \"user_ids\": [\n        \"user_03\"\n      ],\n      \"phones\": [],\n      \"state\": \"\"\n    },\n    {\n      \"resource_id\": \"audit_record_001\",\n      \"system_id\": \"security_service\",\n      \"emails\": [],\n      \"user_ids\": [\n        \"user_03\"\n      ],\n      \"phones\": [],\n      \"state\": \"\"\n    },\n    {\n      \"resource_id\": \"audit_record_006\",\n      \"system_id\": \"security_service\",\n      \"emails\": [],\n      \"user_ids\": [\n        \"user_03\"\n      ],\n      \"phones\": [],\n      \"state\": \"\"\n    },\n    {\n      \"resource_id\": \"audit_record_005\",\n      \"system_id\": \"security_service\",\n      \"emails\": [],\n      \"user_ids\": [\n        \"user_03\"\n      ],\n      \"phones\": [],\n      \"state\": \"\"\n    },\n    {\n      \"resource_id\": \"audit_record_004\",\n      \"system_id\": \"security_service\",\n      \"emails\": [],\n      \"user_ids\": [\n        \"user_03\"\n      ],\n      \"phones\": [],\n      \"state\": \"\"\n    }\n  ]\n}\n```"
+}

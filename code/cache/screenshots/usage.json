@@ -1,0 +1,8 @@
+{
+  "model": "gemma-4-26b-a4b-it",
+  "calls": 10,
+  "promptTokenCount": 4710,
+  "candidatesTokenCount": 2104,
+  "thoughtsTokenCount": 20237,
+  "timedOut": ["evidence_46"]
+}

@@ -1,0 +1,11 @@
+{
+  "file_id": "evidence_09",
+  "model": "gemma-4-26b-a4b-it",
+  "sha256": "75afdb0ae53a4510c83399a70d88073cb4fb2747454095756e4ddad1a8c70605",
+  "usage": {
+    "promptTokenCount": 471,
+    "candidatesTokenCount": 185,
+    "thoughtsTokenCount": 1324
+  },
+  "answer": "```json\n{\n  \"records\": [\n    {\n      \"resource_id\": \"search_428\",\n      \"system_id\": \"search_service\",\n      \"emails\": [\n        \"g.silva76@gmail.com\"\n      ],\n      \"user_ids\": [\n        \"user_13\"\n      ],\n      \"phones\": [],\n      \"state\": \"present\"\n    },\n    {\n      \"resource_id\": \"search_1874\",\n      \"system_id\": \"search_service\",\n      \"emails\": [\n        \"g.silva76.jr@gmail.com\"\n      ],\n      \"user_ids\": [],\n      \"phones\": [],\n      \"state\": \"present\"\n    }\n  ]\n}\n```"
+}

@@ -1,0 +1,11 @@
+{
+  "file_id": "evidence_32",
+  "model": "gemma-4-26b-a4b-it",
+  "sha256": "2c246aa5843bec609b9ddfdf1154cd81e0fd61996f83954735e9856e48c18bf3",
+  "usage": {
+    "promptTokenCount": 471,
+    "candidatesTokenCount": 322,
+    "thoughtsTokenCount": 1692
+  },
+  "answer": "```json\n{\n  \"records\": [\n    {\n      \"resource_id\": \"backup_9291\",\n      \"system_id\": \"backup_service\",\n      \"emails\": [\n        \"bluepeakco@outlook.com\"\n      ],\n      \"user_ids\": [],\n      \"phones\": [],\n      \"state\": \"present\"\n    },\n    {\n      \"resource_id\": \"backup_9288\",\n      \"system_id\": \"backup_service\",\n      \"emails\": [\n        \"miller.logistics@company.com\"\n      ],\n      \"user_ids\": [],\n      \"phones\": [],\n      \"state\": \"present\"\n    },\n    {\n      \"resource_id\": \"backup_9287\",\n      \"system_id\": \"backup_service\",\n      \"emails\": [\n        \"areed1433@gmail.com\"\n      ],\n      \"user_ids\": [],\n      \"phones\": [],\n      \"state\": \"present\"\n    },\n    {\n      \"resource_id\": \"backup_9286\",\n      \"system_id\": \"backup_service\",\n      \"emails\": [\n        \"summit-retail@company.com\"\n      ],\n      \"user_ids\": [],\n      \"phones\": [],\n      \"state\": \"present\"\n    }\n  ]\n}\n```"
+}

@@ -1,0 +1,11 @@
+{
+  "file_id": "evidence_28",
+  "model": "gemma-4-26b-a4b-it",
+  "sha256": "542b7aec17e6b2f38827896e7eb52c70e4bfaaca22433621be1f80f54884e944",
+  "usage": {
+    "promptTokenCount": 471,
+    "candidatesTokenCount": 112,
+    "thoughtsTokenCount": 2999
+  },
+  "answer": "```json\n{\n  \"records\": [\n    {\n      \"resource_id\": \"support_CS-5034\",\n      \"system_id\": \"support_platform\",\n      \"emails\": [\n        \"kagyeman8947@fastmail.com\"\n      ],\n      \"user_ids\": [\n        \"support_1034\"\n      ],\n      \"phones\": [],\n      \"state\": \"active\"\n    }\n  ]\n}\n```"
+}

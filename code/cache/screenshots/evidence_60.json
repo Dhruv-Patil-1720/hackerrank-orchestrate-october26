@@ -1,0 +1,11 @@
+{
+  "file_id": "evidence_60",
+  "model": "gemma-4-26b-a4b-it",
+  "sha256": "51fa0e6a38f8fa3629ba1b0d0b90b4ed139715956b97bfd09a6f1a6232c15df5",
+  "usage": {
+    "promptTokenCount": 471,
+    "candidatesTokenCount": 113,
+    "thoughtsTokenCount": 778
+  },
+  "answer": "```json\n{\n  \"records\": [\n    {\n      \"resource_id\": \"marketing_001\",\n      \"system_id\": \"marketing_platform\",\n      \"emails\": [\n        \"sj.park@naver.com\"\n      ],\n      \"user_ids\": [],\n      \"phones\": [\n        \"+82 10-5837-9451\"\n      ],\n      \"state\": \"active\"\n    }\n  ]\n}\n```"
+}

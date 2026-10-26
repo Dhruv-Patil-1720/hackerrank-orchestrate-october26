@@ -1,0 +1,11 @@
+{
+  "file_id": "evidence_04",
+  "model": "gemma-4-26b-a4b-it",
+  "sha256": "d5c32ca5b6e1a2b4bbe9f5d41835ef1fd5d4f7061dab9067a4f9f88cea3c1861",
+  "usage": {
+    "promptTokenCount": 471,
+    "candidatesTokenCount": 129,
+    "thoughtsTokenCount": 1420
+  },
+  "answer": "```json\n{\n  \"records\": [\n    {\n      \"resource_id\": \"account_5762\",\n      \"system_id\": \"account_service\",\n      \"emails\": [\n        \"haruka.s1838@zoho.com\"\n      ],\n      \"user_ids\": [\n        \"user_11\"\n      ],\n      \"phones\": [\n        \"+81 90 7610 2507\"\n      ],\n      \"state\": \"\"\n    }\n  ]\n}\n```"
+}
